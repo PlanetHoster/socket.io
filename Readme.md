@@ -1,20 +1,18 @@
 
 # Socket.IO Chat
 
-A simple chat demo for socket.io
+Une démo pour socket.io sur PlanetHoster. (Basé sur l'exemple officiel de socket.io)
 
-## How to use
+## Comment l'utiliser?
+
+Suivez ce guide:  [Icônes World > Langages > NodeJS](https://my.planethoster.net/knowledgebase/article/405/icoenes-world-langages-nodejs)
 
 ```
-$ cd socket.io
+$ # source le fichier d'environnement de votre app.
 $ npm install
-$ cd examples/chat
-$ npm install
-$ npm start
 ```
 
-And point your browser to `http://localhost:3000`. Optionally, specify
-a port by supplying the `PORT` env variable.
+Et naviguez sur votre domaine `http://votredomaine.com`.
 
 ## Features
 
